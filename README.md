@@ -2,5 +2,6 @@
 
 
 
-https://github.com/Emma-Coco/WritingGame_JS_OpenClassroomSession/assets/118276052/5859e36e-6ef5-469c-82a9-3c7af90e17bb
+
+https://github.com/Emma-Coco/WritingGame_JS_OpenClassroomSession/assets/118276052/fe4ed02b-7356-449d-b7af-397f5c4ac085
 
