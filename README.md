@@ -1,5 +1,6 @@
 # Visuel du jeu
 
 
-https://github.com/Emma-Coco/WritingGame_JS_OpenClassroomSession/assets/118276052/2bc7969c-99b2-454f-8ef5-132d851a799d
+
+https://github.com/Emma-Coco/WritingGame_JS_OpenClassroomSession/assets/118276052/5859e36e-6ef5-469c-82a9-3c7af90e17bb
 
